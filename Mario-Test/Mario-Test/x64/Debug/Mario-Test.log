@@ -1,0 +1,43 @@
+﻿  Animator.cpp
+D:\New folder\PROJECT-MARIO\Mario-Test\Mario-Test\Animator.cpp(63,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AssetManager.cpp
+  BulletBill.cpp
+  Camera.cpp
+  CheepCheep.cpp
+  Coin.cpp
+  CollisionManager.cpp
+  Enemy.cpp
+  Entity.cpp
+  FireLuigiForm.cpp
+  FireMarioForm.cpp
+  FirePlayerForm.cpp
+  Flower.cpp
+  Game.cpp
+  Goomba.cpp
+  Item.cpp
+  Koopa.cpp
+  Luigi.cpp
+  LuigiForm.cpp
+  main.cpp
+D:\New folder\PROJECT-MARIO\Mario-Test\Mario-Test\main.cpp(23,30): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  Generating Code...
+  Compiling...
+  Map.cpp
+  Mario.cpp
+  MarioForm.cpp
+  Mushroom.cpp
+  PiranhaPlant.cpp
+  Player.cpp
+  PlayerForm.cpp
+  Renderer.cpp
+  Resources.cpp
+  SmallLuigiForm.cpp
+  SmallMarioForm.cpp
+  SmallPlayerForm.cpp
+  Star.cpp
+  Block.cpp
+  SuperLuigiForm.cpp
+  SuperMarioForm.cpp
+  SuperPlayerForm.cpp
+  Generating Code...
+  Mario-Test.vcxproj -> D:\New folder\PROJECT-MARIO\Mario-Test\x64\Debug\Mario-Test.exe
