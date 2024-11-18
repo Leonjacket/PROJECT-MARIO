@@ -11,7 +11,6 @@ Mario* mario = nullptr;
 //PiranhaPlant* piranha = nullptr;
 CheepCheep* cheepCheep = nullptr;
 
-
 CollisionManager colManager;
 
 void Game::Begin(const sf::Window& window)
